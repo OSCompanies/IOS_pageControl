@@ -1,1 +1,1 @@
-# IOS_pageControl
+### PageControl 예제
